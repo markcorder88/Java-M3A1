@@ -2,8 +2,9 @@
 public class MainM3Assignment {
 
     public static void main(String[] args) {
-	// TODO Auto-generated method stub
-
+	
+	M3Assignment myM3Assignment = new M3Assignment();
+	myM3Assignment.run();
     }
 
 }
