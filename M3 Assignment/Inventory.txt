@@ -1,0 +1,40 @@
+Product Name: Television
+Poduct Cost: $439.65
+Product Price: $571.55
+
+Product Name: Radio
+Poduct Cost: $40.0
+Product Price: $52.0
+
+Product Name: Computer
+Poduct Cost: $525.99
+Product Price: $683.79
+
+Product Name: Headphones
+Poduct Cost: $139.65
+Product Price: $181.55
+
+Product Name: Printer
+Poduct Cost: $89.94
+Product Price: $116.92
+
+Product Name: Monitor
+Poduct Cost: $189.94
+Product Price: $246.92
+
+Product Name: Keyboard
+Poduct Cost: $29.94
+Product Price: $38.92
+
+Product Name: Mouse
+Poduct Cost: $19.94
+Product Price: $25.92
+
+Product Name: Router
+Poduct Cost: $69.94
+Product Price: $90.92
+
+Product Name: Speakers
+Poduct Cost: $49.94
+Product Price: $64.92
+
